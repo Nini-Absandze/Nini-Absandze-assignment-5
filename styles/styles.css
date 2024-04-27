@@ -1,0 +1,152 @@
+body {
+	background-color: #c0c0c0;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 100px;
+}
+
+li {
+	display: inline-block;
+	font-size: 11px;
+	font-weight: 700;
+	color: #000000;
+	line-height: 12.89px;
+	margin-right: 35px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.13px;
+	color: #000000;
+	margin-top: 42px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	margin-left: 140px;
+}
+
+.profile {
+	vertical-align: middle;
+}
+
+.cardone {
+	display: inline-block;
+	position: relative;
+	margin-left: 130px;
+	margin-top: -25px;
+	background-color: white;
+}
+
+.cardone p {
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-80%, -500%);
+}
+
+h5 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: #8A8787;
+	margin-left: 37px;
+}
+
+.dro {
+	margin-left: 40px;
+	margin-bottom: 40px;
+	vertical-align: middle;
+}
+
+.time {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 11px;
+	position: absolute;
+	top: 77%;
+}
+
+h3 {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.13px;
+	color: #000000;
+	margin-top: 42px;
+	margin-left: 140px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.twopic {
+	display: inline-block;
+	margin-left: 140px;
+}
+.pic5 {
+	width: 758px;
+	height: 430px;
+}
+
+.threepic {
+	display: inline-block;
+}
+
+.fotoebi {
+	width: 362px;
+	height: 212px;
+	display: block;
+	margin-top: 30px;
+	margin bottom: 98px;
+	margin-left: 45px;
+}
+
+footer {
+	margin-top: 36px;
+	background-color: #243043;
+}
+
+.footer {
+	display: block;
+	font-size: 12px;
+	font-weight: 700;
+	color: #818687;
+	line-height: 14.06px;
+	margin-right: 35px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	margin-bottom: 14px;
+	vertical-align: middle;
+}
+
+h6 {
+	display: inline-block;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	font-style: normal;
+	color: white;
+	margin-left: 50px;
+}
+
+.logo {
+	margin-left: 400px;
+}
